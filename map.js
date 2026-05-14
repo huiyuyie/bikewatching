@@ -1,6 +1,6 @@
 import mapboxgl from 'https://cdn.jsdelivr.net/npm/mapbox-gl@2.15.0/+esm';
 
-mapboxgl.accessToken = 'pk.pk.eyJ1IjoiaHVpeXV5aWUiLCJhIjoiY21wNXp5M3QyMWoyYjJzcHAwZ2Y4OTlsYyJ9.W1pocc3K7HhQuiUFhDsqug';
+mapboxgl.accessToken = 'pk.eyJ1IjoiaHVpeXV5aWUiLCJhIjoiY21wNXp5M3QyMWoyYjJzcHAwZ2Y4OTlsYyJ9.W1pocc3K7HhQuiUFhDsqug';
 
 const map = new mapboxgl.Map({
   container: 'map',
